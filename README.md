@@ -30,6 +30,10 @@ cd power-the-web
 ```markdown
 npm install
 ```
+5. Run the project.
+```markdown
+npm run dev
+```
 
 5. Make changes in the project. Add, Commit and Push the project using following commands:
 
@@ -97,8 +101,11 @@ So, people will know what project it is. Make sure you added your github name an
     <p><b><a href="https://github.com/devvsakib">DevvSakib</a></b><br> Maintainer</p>
 </div>
 -->
+
 ## Thanks to all the contributors ❤️
 Add your details in contributions.json file
+
+
 <a href = "https://github.com/devvsakib/hacktoberfest-react-project/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=devvsakib/hacktoberfest-react-project"/>
 </a>
